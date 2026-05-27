@@ -10,7 +10,7 @@
 
 🔍 Passionate about building data-driven solutions and learning across different areas of technology  
 
-⚙️ Tech Stack: Python, C++, JavaScript, SQL, Java, TypeScript, HTML/CSS  
+⚙️ Tech Stack: Java, SQL, Python, JavaScript, TypeScript, HTML/CSS, R
 
 ⚡ Fun fact: I enjoy exploring different fields in tech and understanding how they connect together  
 
