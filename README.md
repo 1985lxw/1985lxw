@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Xing-Wei ヾ(•ω•`)o
 
-<!--
-**1985lxw/1985lxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Computer Science at the University of Massachusetts Amherst  
 
-Here are some ideas to get you started:
+🎓  Graduated May 2026  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Backend Engineering, AI/ML, Data Analytics, and Cybersecurity  
+
+🌱 Currently working on a data analysis project exploring NYC housing sale prices  
+
+🔍 Passionate about building data-driven solutions and learning across different areas of technology  
+
+⚙️ Tech Stack: Python, C++, JavaScript, SQL, Java, TypeScript, HTML/CSS  
+
+⚡ Fun fact: I enjoy exploring different fields in tech and understanding how they connect together  
+
+🎯 2026 Goal: Join a collaborative team where I can grow as an engineer and explore different technical domains
